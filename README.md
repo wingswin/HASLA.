@@ -1,1 +1,7 @@
-# HASLA.
+i would like to write some working experience in CV, can you help me to write it better and as short as it can, i will write what i have done in this internship period:
+1. make a local deployment for the rag model by using docker, dify, python , milvus vector DB to build up a local RAG chatbot for testing.
+2. make the cloud version rag model for brokers and staff to use, i had make a web-ui for the rag ai-chatbot by mainly using the react.js . And use react to send the api request to the rag workflow through RESTAPI ,API key.
+3. I joined our company new portal develop, and i had make a traditional words validation to make sure the words is same as the old portal wordings. I use the AI tools and some excel function to help company find out more than 40% wordings from old portal in 2 weeks, and it can make change easily.
+4. i have make the fund list validation in the 22 products. Each have around 300-500 funds insider the list. i write a code which can extract all words from excel table and compare with the given document, i extract the json format of fund list from network of development tools, and make a compare.
+5. i have write a set of code for automation the step of UAT testing information update in every month. It can update the excel information as a new update date, create the sql code folder for run sql,  generate some time rollback file.xml , and it will update to server task scheduler automatically.i reduce the process of steps from around 40 steps to 18 steps.
+6. Also i have done some small project in 2-3 days, make some SSIS workflow to make some for the original automation workflow.  I also write some sql to sync some database table to make a new one with some new conditional field.
